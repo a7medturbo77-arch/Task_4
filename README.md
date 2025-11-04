@@ -65,7 +65,7 @@ mongodb://karimahmedx12345_db_user:3j4pXtepJOOqUwdH@ac-8s5sv3m-shard-00-00.sytuj
  # TODO:
 - Implement the backend test unit in `server/tests/auth.test.js` file.
 - Implement the frontend test unit in `client/tests/allPerksPage.test.jsx` file.
-- Run both tests using `npm run test` command in respective folders as shown above.
+- Run both tests using `npm run test` as shown above.
 - Make sure all tests pass before submission.
 - Push it on Github (check the manual if you struggle)
 - Show your TA for grading
